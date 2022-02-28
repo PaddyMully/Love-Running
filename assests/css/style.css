@@ -271,4 +271,16 @@ footer{
     hr{
         display: none;
     }
+
+    @media screen and (max-width: 950px)
+    {
+        #photos{
+            column-count: 3;
+        }
+    }
+
+    @media screen and (max-width: 800px)
+    {
+        column-count: 2;
+    }
 }
