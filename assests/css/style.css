@@ -98,7 +98,7 @@ letter-spacing: 4px;
     letter-spacing: 4px;
 
     width:300px;
-    hieght:200px;
+    height:200px;
 
     padding-top: 40px;
     padding-left: 10px;
@@ -210,4 +210,25 @@ hr{
 
 #times h2{
     color:#fafafa;
+}
+
+
+footer{
+    height:150px;
+}
+
+.socail-networks{
+    text-align: center;
+
+}
+
+.socail-networks > li {
+    display:inline;
+}
+
+.socail-networks i {
+    font-size: 160%;
+    margin:1%;
+    padding: 5%;
+    color: #3a3a3a;
 }
